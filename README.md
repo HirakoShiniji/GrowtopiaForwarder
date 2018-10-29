@@ -1,2 +1,2 @@
-# TCPGTAccStealer
-TCP | Growtopia Account Stealer Source
+# Telnet Growtopia Account Stealer Source
+
